@@ -94,7 +94,7 @@ hexeshell "find large files"  # Run intelligent task
 | Networking     | “Restart Wi-Fi and check connection speed”               |
 | Logs           | “Tail last 100 lines of journalctl”                      |
 | Scripting Help | “Fix this Python error in script.py”                     |
-| Messaging      | “Tell Rudo ‘Avo gonna call us’ on WhatsApp”              |
+| Messaging      | “Tell Rudo ‘Avoz gonna call us soon’ on WhatsApp”              |
 | Audio/Media    | “Play lofi beats from Liked playlist in Spotify”         |
 
 ---
