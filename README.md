@@ -88,14 +88,14 @@ hexeshell "find large files"  # Run intelligent task
 
 | 💬 Type        | 🧠 Example                                               |
 |----------------|----------------------------------------------------------|
-| System Check   | “Show CPU and memory usage”                              |
-| File Ops       | “Delete large files in /Downloads”                       |
-| Packages       | “Install neofetch and htop”                              |
-| Networking     | “Restart Wi-Fi and check connection speed”               |
-| Logs           | “Tail last 100 lines of journalctl”                      |
-| Scripting Help | “Fix this Python error in script.py”                     |
-| Messaging      | “Tell Rudo ‘Avoz gonna call us soon’ on WhatsApp”              |
-| Audio/Media    | “Play lofi beats from Liked playlist in Spotify”         |
+| System Check   | Show CPU and memory usage                              |
+| File Ops       | Delete large files in /Downloads                       |
+| Packages       | Install neofetch and htop”                              |
+| Networking     | Restart Wi-Fi and check connection speed               |
+| Logs           | Tail last 100 lines of journalctl                      |
+| Scripting Help | Fix this Python error in script.py                     |
+| Messaging      | Send WhatsApp message to Reggie: "Pablo gonna call at 3pm"             |
+| Audio/Media    | Play lofi beats from Liked playlist in Spotify         |
 
 ---
 
